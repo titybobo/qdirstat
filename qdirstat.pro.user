@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+guage">Cpp</value>
+    <valuemap type="QVariantMap" key="value"><?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
 <!-- Written by QtCreator 3.0.1, 2016-01-29T16:03:09. -->
 <qtcreator>
@@ -13,8 +14,7 @@
    <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
    <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
    <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
-    <value type="QString" key="language">Cpp</value>
-    <valuemap type="QVariantMap" key="value">
+    <value type="QString" key="lan
      <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
     </valuemap>
    </valuemap>
